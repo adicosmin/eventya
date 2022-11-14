@@ -1,0 +1,10 @@
+.main-heading{
+    margin-bottom: 35px;
+    text-align: center;
+}
+.hero-section h2{
+    background-color:var(--primary-color);
+    color: var(--white-color);
+    text-align: center;
+    padding:10px;
+}

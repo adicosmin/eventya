@@ -1,0 +1,14 @@
+@import './plugins/bootstrap.min.css';
+@import './common/variables.css';
+@import './common/fonts.css';
+@import './common/header.css';
+@import './common/footer.css';
+@import './common/heading.css';
+@import './common/buttons.css';
+
+
+/* aici poti pune clase comune, de exemplu daca vrei o clasa pt font-size:16, pui .font16{ font-size:16}, si o apelezi oriunde vrei */
+
+.main-padding{
+    padding:60px 0;
+}

@@ -1,0 +1,5 @@
+.first-btn{
+    background-color: var(--main-btn-color);
+    border: none;
+    border-radius: 25px;
+}
